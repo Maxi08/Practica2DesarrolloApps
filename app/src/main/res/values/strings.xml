@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WeightLost</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="btnRegistro">Regístrate</string>
+    <string name="btnIniciarSesion">Iniciar sesión</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtContraseña">Contraseña</string>
+    <string name="txtContinuar">Continuar</string>
+    <string name="txthola">Hola</string>
+    <string name="txttextologin">Iniciar sesión</string>
+    <string name="txtpeso1">¿Cuál es tu peso actual?</string>
+    <string name="txtpeso2">¿Cuánto peso quiere perder?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fecha">Fecha</string>
+    <string name="peso">Peso</string>
+    <string name="guardar">Guardar</string>
+    <string name="registro">Registro de progreso</string>
+    <string name="original">Original</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="restante">Restante</string>
+    <string name="semana">Semana</string>
+    <string name="mes">Mes</string>
+    <string name="total">Total</string>
+    <string name="pesos">Pesos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

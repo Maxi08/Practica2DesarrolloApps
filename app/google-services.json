@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109036218593",
+    "firebase_url": "https://weightlostdb.firebaseio.com",
+    "project_id": "weightlostdb",
+    "storage_bucket": "weightlostdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109036218593:android:6ab8a731a4f192806befa0",
+        "android_client_info": {
+          "package_name": "com.example.weightlost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109036218593-vrjopb30tdd991gqd8m4b3lq6dpdppht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEUmnWE5YL0RmnPK_A8cRouqDTi6w9Qgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109036218593-vrjopb30tdd991gqd8m4b3lq6dpdppht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
